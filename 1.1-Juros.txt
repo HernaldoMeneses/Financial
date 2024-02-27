@@ -1,0 +1,28 @@
+Juros é a remuneração do Capital empregado.
+    A aplicação de um capital durante um periodo gerará um Montante.
+    O montante é a soma do capital + o Juros 
+    Juros é a remuneração correspondente ao periodo de aplicação do capital
+
+    juros ganhos = montante - aplicação     (I)
+
+    seja:
+        (P) - Aplicação 
+        (S) - Montante
+        (J) - Juros
+
+    pode-se encontrar a taxa de juros (i)
+        i=J/P       (II)
+
+    logo:
+        J=P*i       (III)
+
+    Unindo as relações (III) e (I) podemos deduzir:
+
+        S-P=P*i 
+    
+    logo:
+        S=P(1+i)
+
+*Obs - Forma Percentual e Forma Fracionária da taxa
+    Ex: i=20% ou i=0.20 ou ainda 20/100
+    ex: i=0,3% ou i=0.003 ou ainda 0,3/100
