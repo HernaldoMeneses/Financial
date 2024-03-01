@@ -1,0 +1,11 @@
+1.1 - Seja um Capital de R$ 3.000,00 aplicados por um ano à taxa simples de 25% a.a. (ao ano)
+Dados: 
+    P = R$ 3.000,00
+    i = 25% a.a 
+    J = ?
+
+    J = R$ 3.000,00 * 0.25/1ano * 1ano
+    J = R$ 3.000,00 * 0.25/1
+    J = R$ 30,00 * 25
+    J = R$ 750,00 
+

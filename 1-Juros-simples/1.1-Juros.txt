@@ -26,3 +26,11 @@ Juros é a remuneração do Capital empregado.
 *Obs - Forma Percentual e Forma Fracionária da taxa
     Ex: i=20% ou i=0.20 ou ainda 20/100
     ex: i=0,3% ou i=0.003 ou ainda 0,3/100
+
+**importante
+    365 dias 
+        Ano civil - mês calendário
+    360 dias
+        Ano comercial - mês 30 dias.
+    salvo mensao em contrario
+        Considere Ano comercial
