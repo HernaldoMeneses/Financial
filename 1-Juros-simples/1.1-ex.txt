@@ -27,3 +27,6 @@ Dados:
     :. S =              ($ 1.600,00 + $ 1.600,00*1/2)
     :. S =              ($ 1.600,00 + $    800,00)
     :. S =              ($ 2.400,00)
+
+pag. 14/380
+file:///L:/Linear_/Base-01/Matematica%20financeira-Samanez.pdf
